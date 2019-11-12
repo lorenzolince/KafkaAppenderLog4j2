@@ -1,0 +1,1 @@
+# KafkaAppenderLog4j2
